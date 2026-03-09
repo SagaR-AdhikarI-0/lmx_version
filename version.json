@@ -1,5 +1,7 @@
 {
     "latestVersion": "2.0.2",
     "minSupportedVersion": "2.0.2",
-    "message": "A new version of the application is available. Please update to the latest version for the best experience."
+    "message": "A new version of the application is available. Please update to the latest version for the best experience.",
+    "hairCoin": 200,
+    "videoCoin": 800
 }
